@@ -1,6 +1,7 @@
 TONE SELECTED:
 Traditional & Trustworthy
 
+----------------------------------------
 
 REWRITTEN COPY:
 
@@ -15,11 +16,14 @@ Trusted bridal saree draping and beauty guidance for women in Turupu Peta and ne
 Primary CTA Button:
 Book Your Bridal Appointment
 
+--------------------------------------------------
 
 INTRODUCTION
 
 At Drape & Glow, we proudly serve brides and families with dedication and care. With over 10 years of experience, 
 we provide traditional saree draping and beauty guidance, ensuring every woman feels confident and respected on her special day.
+
+--------------------------------------------------
 
 
 TONE ADJUSTMENT NOTES:
