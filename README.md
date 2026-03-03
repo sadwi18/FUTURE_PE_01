@@ -51,8 +51,21 @@ This ensures:
 
 ## Repository Structure
 
-
-
+FUTURE_PE_01
+│
+├── prompts/
+│ ├── homepage_prompt.txt
+│ ├── services_prompt.txt
+│ ├── cta_prompt.txt
+│ ├── tone_adaptation_prompt.txt
+│ ├── value_proposition_refinement_prompt.txt
+│
+└── outputs/
+├── homepage_output.txt
+├── services_output.txt
+├── cta_output.txt
+├── tone_adaptation_output.txt
+├── value_proposition_output.txt
 
 ---
 
