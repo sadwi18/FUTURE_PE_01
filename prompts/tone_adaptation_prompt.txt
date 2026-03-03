@@ -1,0 +1,17 @@
+Rewrite the following beauty studio website copy in the selected tone.
+
+Tone Options:
+- Elegant & Premium
+- Friendly & Warm
+- Modern & Trendy
+- Traditional & Trustworthy
+- Professional & Clinical
+
+Instructions:
+- Do not change structure.
+- Adjust vocabulary and emotional intensity.
+- Keep it natural and human.
+- Avoid exaggeration.
+
+Website Copy:
+[Paste generated content here]
