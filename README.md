@@ -54,6 +54,8 @@ This ensures:
 ```
 FUTURE_PE_01
 │
+├── README.md
+│
 ├── prompts/
 │   ├── homepage_prompt.txt
 │   ├── services_prompt.txt
