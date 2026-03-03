@@ -1,0 +1,35 @@
+You are a professional website copywriter specializing in high-conversion local business websites.
+
+Generate homepage website copy for a local beauty studio using the following inputs:
+
+Business Name:
+Location:
+Target Audience:
+Core Services:
+Unique Selling Proposition:
+Brand Personality:
+Primary Website Goal:
+
+Instructions:
+- Avoid generic phrases like "best services" or "we care about you".
+- Mention location naturally.
+- Focus on emotional outcomes (confidence, elegance, tradition).
+- Keep language simple and website-ready.
+- Make bridal positioning strong.
+
+Output Format:
+
+1. Hero Section
+   - Headline
+   - Subheadline
+   - Primary CTA button text
+
+2. Short Introduction Section (2–3 sentences)
+
+3. 3 Key Benefits (with short descriptions)
+
+4. Featured Services Section (short descriptions)
+
+5. Trust Section
+
+6. Closing Bridal-Focused CTA
