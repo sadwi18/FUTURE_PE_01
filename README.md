@@ -50,10 +50,8 @@ This ensures:
 ---
 
 ## Repository Structure
-FUTURE_PE_01
-│
-├── prompts/ → Structured prompt frameworks
-└── outputs/ → Generated website copy for Drape & Glow
+
+
 
 
 ---
