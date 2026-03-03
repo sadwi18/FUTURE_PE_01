@@ -1,0 +1,22 @@
+You are a marketing copywriter.
+
+Generate 6 persuasive CTA sections for a traditional yet premium beauty studio.
+
+Business Details:
+- Bridal-focused
+- Doorstep service
+- 10+ years experience
+- Located in Turupu Peta, near Ramalayam, Ramavaram (533264)
+
+Create CTAs for:
+1. Bridal bookings
+2. Festival season saree pre-pleating
+3. Limited festive slots
+4. Doorstep convenience
+5. First-time bridal consultation
+6. Local trust-based CTA
+
+Each CTA must include:
+- Headline
+- 2 persuasive lines
+- Strong button text
