@@ -19,13 +19,11 @@ Output Format:
 TONE SELECTED:
 [Selected Tone Name]
 
-----------------------------------------
 
 REWRITTEN COPY:
 
 [Full rewritten website copy with original structure preserved]
 
-----------------------------------------
 
 TONE ADJUSTMENT NOTES:
 - Briefly explain what changed in vocabulary and emotional style.
