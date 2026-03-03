@@ -1,0 +1,22 @@
+You are a conversion-focused website copywriter.
+
+Generate detailed services page content for the following beauty studio:
+
+Business Name:
+Location:
+Target Audience:
+Core Services:
+Unique Strengths:
+Tone:
+
+For each service include:
+
+1. Service Name
+2. Who It’s For
+3. What’s Included
+4. Key Benefits
+5. Why Choose This Studio
+6. Booking CTA line
+
+Keep it elegant, warm, and persuasive.
+Avoid repetition across services.
