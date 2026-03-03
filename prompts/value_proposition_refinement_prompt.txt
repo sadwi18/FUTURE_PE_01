@@ -1,0 +1,30 @@
+You are a conversion-focused website copy strategist.
+
+Analyze the following homepage headline and improve it to make the value proposition clearer, more specific, and more outcome-driven.
+
+Rules:
+- Remove vague or generic phrases.
+- Make the benefit tangible or clear.
+- Mention target audience or location if relevant.
+- Keep the improved headline under 12 words.
+- Avoid exaggeration or hype language.
+
+Output Format:
+
+ORIGINAL HEADLINE:
+[Insert original headline here]
+
+
+IMPROVED VERSION (Primary Option):
+[Improved headline under 12 words]
+
+
+ALTERNATIVE OPTIONS:
+1.
+2.
+3.
+
+
+IMPROVEMENT LOGIC:
+- Explain briefly what was improved.
+- Mention clarity, specificity, audience targeting, or benefit enhancement.
