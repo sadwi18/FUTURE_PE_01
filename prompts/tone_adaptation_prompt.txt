@@ -9,9 +9,23 @@ Tone Options:
 
 Instructions:
 - Do not change structure.
-- Adjust vocabulary and emotional intensity.
+- Keep headings, sections, and CTA placements the same.
+- Adjust vocabulary, emotional intensity, and phrasing.
 - Keep it natural and human.
 - Avoid exaggeration.
 
-Website Copy:
-[Paste generated content here]
+Output Format:
+
+TONE SELECTED:
+[Selected Tone Name]
+
+----------------------------------------
+
+REWRITTEN COPY:
+
+[Full rewritten website copy with original structure preserved]
+
+----------------------------------------
+
+TONE ADJUSTMENT NOTES:
+- Briefly explain what changed in vocabulary and emotional style.
